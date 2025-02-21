@@ -70,3 +70,7 @@ Endpoints
     400 Bad Request : Requête mal formée.
     404 Not Found : Ressource non trouvée.
     500 Internal Server Error : Erreur serveur.
+
+--------
+
+Le front et le back ne sont pas connectés 
